@@ -13,8 +13,8 @@
 # REQUIRE:  Permission to unlock account
 # USAGE:    .\AD-Unlocker.ps1
 #
-# VERSION HISTORY
-# 1.0 2013.03.22 Initial Version.
+# 
+# 
 #
 # #############################################################################  
 
